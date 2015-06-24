@@ -21,8 +21,8 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#8c2c67",
-            "color3":"#ea018b",
+            "color2":"#fc8526",
+            "color3":"#fc8526",
             "color4":"#505050",
             "color5":"#8a9191",
             "color6":"#afb6b6",
@@ -38,12 +38,12 @@
             "color7":"#dddddd"
         },
         "Swatch 3": {
-            "color1":"#f7f7f7",
-            "color2":"#4788c0",
-            "color3":"#485662",
-            "color4":"#485662",
-            "color5":"#8c939b",
-            "color6":"#a8afb7",
+            "color1":"#ffffff",
+            "color2":"#8c2c67",
+            "color3":"#ea018b",
+            "color4":"#505050",
+            "color5":"#8a9191",
+            "color6":"#afb6b6",
             "color7":"#dddddd"
         }
     },
