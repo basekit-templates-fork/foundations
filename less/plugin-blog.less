@@ -22,8 +22,18 @@
             width: 100%;
         }
     }
+    .form-group {
+        min-width: 46px;
+    }
     .legend {
         font-family: @font-swatch3-font-family;
+    }
+    .button--submit {
+        padding: 0 0 0 46px;
+        width: 46px;
+        height: 44px;
+        line-height: 44px;
+        vertical-align: middle;
     }
     @media only screen and (min-width:770px) { // Style for Desktop
         .legend {
@@ -38,8 +48,7 @@
             border-top: none;
         }
         .button--submit {
-            width: auto;
-            padding: 0;
+            border-top: none;
         }
     }
 }
