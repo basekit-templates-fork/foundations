@@ -4,7 +4,7 @@
     "thumbnail": "thumbnail.png",
     "screenshot": "foundations-screenshot.jpg",
     "templateType":"standard",
-    "pageTypes": ["home", "blog", "store", "menu"],
+    "pageTypes": ["home"],
     "tags": {
     "en": ["ecommerce", "business", "minimal", "clean", "multipurpose", "simple", "contemporary", "flexible", "modern", "photography"],
     "es": ["ecommerce", "negocios", "minimalista", "limpio", "multiuso", "simple", "contemporáneo", "flexible", "moderno", "fotográfico"],
